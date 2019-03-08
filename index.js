@@ -1,11 +1,7 @@
-// This is a subset of the states.
-// Use this to actually run the game
-// (assume this is the full set of states.
-// This will make it easier to test.
+
 var states = ["Idaho", "South Dakota", "Hawaii", "Alaska", "Alabama", "New York"];
 
-// These are all the states. It maps the state name to the number which you'll
-// want to use in your API call.
+
 var abvMap = {
     "Alabama": "01",
     "Alaska": "02",
